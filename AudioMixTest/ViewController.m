@@ -33,8 +33,9 @@
 - (NSString*)mixAudioFiles:(NSArray*)audioFileURLArray {
     
     NSError* error = nil;
-    AVURLAsset* fileAsset;
     NSString *outputFile;
+    
+    AVURLAsset* fileAsset;
     AVAssetExportSession* exportSession;
     AVMutableCompositionTrack* audioTrack;
     AVMutableComposition* composition = [AVMutableComposition composition];
