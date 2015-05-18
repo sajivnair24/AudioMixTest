@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>707C38D4-20CB-4156-9FB8-65D6D856887C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AudioMixTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9D5E01DF1E12D6025363A9633E26B5B17A42A53B</key>
+		<string>https://github.com/sajivnair24/AudioMixTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AudioMixTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9D5E01DF1E12D6025363A9633E26B5B17A42A53B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sajivnair24/AudioMixTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9D5E01DF1E12D6025363A9633E26B5B17A42A53B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9D5E01DF1E12D6025363A9633E26B5B17A42A53B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AudioMixTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
